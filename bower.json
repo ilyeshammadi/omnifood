@@ -1,0 +1,21 @@
+{
+  "name": "omnifood",
+  "authors": [
+    "Ilyes Hammadi <hammadiilyesahmed@gmail.com>"
+  ],
+  "description": "A killer website for the Omnifood company",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Ionicons": "ionicons#^2.0.1",
+    "normalize-css": "^5.0.0"
+  }
+}
